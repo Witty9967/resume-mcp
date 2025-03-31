@@ -1,0 +1,226 @@
+[
+    {
+        "type": "text",
+        "text": "Youqing Zeng - Test Engineer",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Age: 26  \nEducation: Full-time Bachelor's Degree  \nPhone: 18206065941  \nEmail: 18206065941@163.com",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Personal Summary",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Over three years of experience in software quality assurance (QA) engineering, specializing in test automation, functional testing, and API testing. Proficient in various testing frameworks and tools, optimizing testing processes and tools to improve coverage and efficiency. Skilled in collaborating with development, product, and other teams in complex environments to resolve issues quickly and ensure high-quality product delivery. Actively leveraging AI tools to enhance testing and continuously improve delivery value. Capable of drafting work documents and basic communication in English, consistently improving cross-national team collaboration skills through learning.",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Professional Skills",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Testing Fundamentals: Proficient in software testing processes, defect management, and report handling. Skilled in writing test cases, defect reports, test plans, summary reports, and business knowledge base documentation.  \nAutomation Testing: Proficient in WebdriverIO and Appium automation testing frameworks, experienced in using Cucumber for behavior-driven development and Allure for generating test reports.  \nProgramming Languages: Proficient in JavaScript, capable of writing automation scripts, and familiar with web structure, element attributes, and locating methods.  \nDatabase Skills: Proficient in MySQL for database testing, capable of writing complex SQL queries (CRUD operations) to verify data accuracy.  \nOperating Systems and Scripting: Familiar with Linux command-line operations and capable of writing Shell scripts to create testing tools, improve efficiency, and configure testing environments.  \nTesting Tools: Proficient in using Charles/Fiddler for API capturing and data modification, Insomnia for API testing, and NVDA/VoiceOver for accessibility testing.  \nAI-Driven Testing: Utilizing AI tools like ChatGPT and GitHub Copilot for automated code optimization, bug submission optimization, and test data generation to enhance testing efficiency and accuracy.  \nCommunication and Collaboration: Familiar with Agile development processes, skilled in cross-team communication to ensure clear product requirements and quick issue resolution.  \nEnglish Proficiency: Adequate listening, speaking, and writing skills in English, capable of reading, drafting, and communicating in English documentation to support cross-national team collaboration.",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Project Experience",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Promethean Web",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Project Description",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Promethean Web is a web product under Promethean, offering modules for hardware management, user permission management, and third-party and value-added software management.",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Responsibilities",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Participated in requirement reviews, raised questions or suggestions for functionality and UI, and provided testing schedules.  \nOutlined test points and wrote test cases, organized case reviews to continuously optimize test coverage.  \nIdentified and tracked multiple critical issues during testing, driving the development team to improve product quality.  \nDeveloped UI automation test scripts using WebdriverIO and Cucumber frameworks, optimized the testing framework, and covered high-priority test scenarios.  \nCoordinated testing resources, created release test plans, assigned functional and automated test case execution, and compiled release test reports to ensure on-time, high-quality product delivery.  \nEnhanced the project knowledge base on Confluence by documenting optimized testing processes, bug reproduction steps, and testing environment configurations, supporting quick onboarding and collaboration for team members.",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Achievements: Through standardized testing processes and strong defect detection capabilities, most defects were identified and resolved during the testing phase. Increased automation coverage to 47%, reducing manual testing time by approximately 30%, ensuring stability in feature iterations.",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "ActivPanel 9 - Promethean Account App / Promethean Mobile App",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Project Description",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "ActivPanel 9 is an interactive display integrating account management and multiple self-developed apps. The Promethean Account App supports account management, NFC management, and cloud data synchronization.",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Responsibilities",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Regularly clarified requirements and provided bug feedback with overseas project managers and development teams, ensuring efficient cross-timezone communication and reducing rework caused by unclear requirements.  \nEnhanced test cases and bug reports with English descriptions during testing, improving overseas teams' understanding and resolution efficiency.  \nExecuted tests on various devices and operating systems globally using tools like BrowserStack, ensuring consistency and stability across user environments, earning positive feedback in cross-regional markets.  \nManaged continuous integration with GitLab, automated APK packaging and deployment using Shell scripts.  \nDeveloped and maintained automated test scripts for efficient regression testing of critical scenarios.",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Achievements: Reduced testing costs and time through automation and tool collaboration, ensuring consistent stability across multiple platforms.",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Web Embers",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Project Description",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Web Embers is a general front-end component library that helps teams improve UI consistency and development efficiency.",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Responsibilities",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Actively participated in component requirement reviews, providing suggestions for functionality and design improvements.  \nValidated component attributes against Figma designs using developer tools to ensure UI standards.  \nVerified components' compliance with international accessibility standards (WAI) using tools like NVDA/VoiceOver, enhancing accessibility for global user groups.",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Achievements: Ensured component library unification across projects through rigorous testing and validation processes, reducing repetitive testing efforts in subsequent projects.",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Prepared Food App/WeChat Mini Program",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Project Description",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The Qudian prepared food platform provides users with convenient prepared food purchasing and delivery services through an app and mini program.",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Responsibilities",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Participated in requirement reviews, provided improvement suggestions, and prepared testing schedules and test cases.  \nRecorded, tracked, analyzed, and verified issues identified during testing.  \nDeployed backend services and packaged apps using Jenkins, captured API data using Charles.  \nConnected to MySQL with Navicat to verify data storage accuracy and modify data for business logic validation.  \nConducted event tracking tests based on tracking documentation to verify the existence and accuracy of tracking events and attributes.  \nDeployed microservices testing environments using Jenkins, Docker, and Rancher for version releases.",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "MIS Backend Management System",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Project Description",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The MIS backend management system is used for comprehensive management of products, orders, and operations, improving operational efficiency.",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Responsibilities",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Participated in requirement reviews, project scheduling, test case design, formal testing, regression testing in production environments, release, and subsequent iteration testing.  \nPrimarily responsible for functional and business process testing of the operations and order modules.  \nConnected to servers using Jumpserver to view business logs, error messages, and MQ-related information.  \nManaged basic configurations across environments using the Apollo configuration center, enabling hot updates through configuration changes.  \nDeveloped automated test cases using an API testing framework (Python + pytest), combined with Jenkins for automated deployment, achieving quality validation for CRUD operations before regression and version releases. Achieved approximately 70% functional test coverage, saving about two-thirds of manual effort during regression and version validation to test more cross-business logic.",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Work Experience",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/34e62a6db7d78615dbe833c8ac6d8745a95358cf81730b17765e0090248baf43.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "\n\n<html><body><table><tr><td>2022.11-2025.1</td><td>Fujian NetDragon Computer Network Information Technology Co., Ltd. Xiamen Branch</td><td>Software Test Engineer</td></tr><tr><td>2022.4-2022.9</td><td>Xiamen Qudian Technology Co., Ltd.</td><td>Test Development Engineer</td></tr><tr><td>2020.10-2022.4</td><td>Xiamen Sanlian Software Co., Ltd.</td><td>Test Engineer</td></tr></table></body></html>\n\n",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Education Background",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Xiamen University of Technology",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2017.9-2021.6",
+        "page_idx": 2
+    }
+]
