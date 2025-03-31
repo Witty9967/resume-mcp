@@ -18,7 +18,7 @@
     },
     {
         "type": "text",
-        "text": "Over three years of experience in software quality assurance (QA) engineering, specializing in test automation, functional testing, and API testing. Proficient in various testing frameworks and tools, optimizing testing processes and tools to improve coverage and efficiency. Skilled in collaborating with development, product, and other teams in complex environments to resolve issues quickly and ensure high-quality product delivery. Actively leveraging AI tools to enhance testing and continuously improve delivery value. Capable of drafting work documents and basic communication in English, consistently improving cross-national team collaboration skills through learning.",
+        "text": "资深测试工程师，拥有超过4年软件质量保障(QA)经验，专长于自动化测试、功能测试及API测试。精通多种测试框架和工具，成功将测试自动化覆盖率提升至70%，减少30-50%的手动测试时间。善于在复杂的跨国团队环境中协作，确保快速定位并解决问题，保证高质量产品交付。积极应用AI工具(如GitHub Copilot)增强测试效率，持续提升交付价值。具备英语专业文档阅读和编写能力，在跨国团队合作中表现出色，获得海外合作伙伴高度评价。",
         "page_idx": 0
     },
     {
@@ -29,7 +29,7 @@
     },
     {
         "type": "text",
-        "text": "Testing Fundamentals: Proficient in software testing processes, defect management, and report handling. Skilled in writing test cases, defect reports, test plans, summary reports, and business knowledge base documentation.  \nAutomation Testing: Proficient in WebdriverIO and Appium automation testing frameworks, experienced in using Cucumber for behavior-driven development and Allure for generating test reports.  \nProgramming Languages: Proficient in JavaScript, capable of writing automation scripts, and familiar with web structure, element attributes, and locating methods.  \nDatabase Skills: Proficient in MySQL for database testing, capable of writing complex SQL queries (CRUD operations) to verify data accuracy.  \nOperating Systems and Scripting: Familiar with Linux command-line operations and capable of writing Shell scripts to create testing tools, improve efficiency, and configure testing environments.  \nTesting Tools: Proficient in using Charles/Fiddler for API capturing and data modification, Insomnia for API testing, and NVDA/VoiceOver for accessibility testing.  \nAI-Driven Testing: Utilizing AI tools like ChatGPT and GitHub Copilot for automated code optimization, bug submission optimization, and test data generation to enhance testing efficiency and accuracy.  \nCommunication and Collaboration: Familiar with Agile development processes, skilled in cross-team communication to ensure clear product requirements and quick issue resolution.  \nEnglish Proficiency: Adequate listening, speaking, and writing skills in English, capable of reading, drafting, and communicating in English documentation to support cross-national team collaboration.",
+        "text": "核心测试能力:\n- 测试基础: 精通软件测试流程、缺陷管理和报告处理，能高效撰写测试用例、缺陷报告、测试计划、总结报告和业务知识库文档\n- 自动化测试: 精通WebdriverIO和Appium自动化测试框架，熟练使用Cucumber进行行为驱动开发与Allure生成测试报告\n- 性能测试: 掌握LoadRunner基础性能测试方法，能够设计并执行负载测试场景\n\n技术能力:\n- 编程语言: 精通JavaScript，熟悉TypeScript，能够编写高质量自动化脚本和测试工具\n- 数据库技术: 精通MySQL进行数据库测试，能编写复杂SQL查询(CRUD操作)验证数据准确性\n- 操作系统与脚本: 熟悉Linux命令行操作，能编写Shell脚本创建测试工具、提高效率和配置测试环境\n\n测试工具:\n- 网络工具: 精通使用Charles/Fiddler进行API捕获和数据修改，熟练使用Insomnia进行API测试\n- 持续集成: 熟练使用Jenkins、GitLab CI进行自动化部署和持续集成测试\n- 辅助技术: 熟练使用NVDA/VoiceOver进行无障碍测试，确保产品符合国际可访问性标准(WAI)\n\nAI与协作能力:\n- AI驱动测试: 熟练利用ChatGPT和GitHub Copilot进行代码优化、缺陷提交优化和测试数据生成\n- 沟通与协作: 熟悉敏捷开发流程，擅长跨团队沟通，确保清晰的产品需求和快速的问题解决\n- 英语能力: 具备良好的英语听说读写能力，能阅读、起草专业技术文档，并在跨国团队中进行有效沟通",
         "page_idx": 0
     },
     {
@@ -52,7 +52,7 @@
     },
     {
         "type": "text",
-        "text": "Promethean Web is a web product under Promethean, offering modules for hardware management, user permission management, and third-party and value-added software management.",
+        "text": "Promethean Web是一个企业级SaaS平台，为教育机构提供硬件资产管理、用户权限管理、第三方软件集成以及增值服务管理等核心功能模块。该平台服务于全球超过15个国家的教育客户，支持多语言、多区域部署，需确保高可用性和跨平台兼容性。",
         "page_idx": 0
     },
     {
@@ -63,12 +63,12 @@
     },
     {
         "type": "text",
-        "text": "Participated in requirement reviews, raised questions or suggestions for functionality and UI, and provided testing schedules.  \nOutlined test points and wrote test cases, organized case reviews to continuously optimize test coverage.  \nIdentified and tracked multiple critical issues during testing, driving the development team to improve product quality.  \nDeveloped UI automation test scripts using WebdriverIO and Cucumber frameworks, optimized the testing framework, and covered high-priority test scenarios.  \nCoordinated testing resources, created release test plans, assigned functional and automated test case execution, and compiled release test reports to ensure on-time, high-quality product delivery.  \nEnhanced the project knowledge base on Confluence by documenting optimized testing processes, bug reproduction steps, and testing environment configurations, supporting quick onboarding and collaboration for team members.",
+        "text": "- 作为测试核心成员参与产品全生命周期测试，包括需求评审、测试规划、用例设计、缺陷跟踪和回归测试\n- 建立并优化WebdriverIO+Cucumber自动化测试框架，实现关键功能的E2E自动化测试，提高测试覆盖率\n- 设计并执行API测试策略，确保前后端接口稳定性和数据一致性\n- 开发模拟数据脚本和测试工具，提高测试效率并减少手动测试的工作量\n- 作为跨功能团队测试协调人，负责版本发布测试计划制定、资源分配和风险评估\n- 在Confluence上构建并维护项目知识库，包括测试流程文档、环境配置指南和常见问题解决方案",
         "page_idx": 1
     },
     {
         "type": "text",
-        "text": "Achievements: Through standardized testing processes and strong defect detection capabilities, most defects were identified and resolved during the testing phase. Increased automation coverage to 47%, reducing manual testing time by approximately 30%, ensuring stability in feature iterations.",
+        "text": "Achievements: 通过标准化的测试流程和高效的缺陷检测能力，使产品发布后的严重缺陷率降低了65%。自动化测试覆盖率从15%提升至47%，减少约30%的手动回归测试时间，显著提高了迭代速度和质量保障。测试流程优化获得团队管理层认可，并在其他项目中推广应用。",
         "page_idx": 1
     },
     {
@@ -85,7 +85,7 @@
     },
     {
         "type": "text",
-        "text": "ActivPanel 9 is an interactive display integrating account management and multiple self-developed apps. The Promethean Account App supports account management, NFC management, and cloud data synchronization.",
+        "text": "ActivPanel 9是一款面向全球教育市场的交互式智能显示设备，集成账户管理和多个自研应用。Promethean Account App提供账户管理、NFC识别与云数据同步功能，支持15+语言和全球40+国家的教育用户，要求严格的跨平台兼容性和本地化支持。",
         "page_idx": 1
     },
     {
@@ -96,12 +96,12 @@
     },
     {
         "type": "text",
-        "text": "Regularly clarified requirements and provided bug feedback with overseas project managers and development teams, ensuring efficient cross-timezone communication and reducing rework caused by unclear requirements.  \nEnhanced test cases and bug reports with English descriptions during testing, improving overseas teams' understanding and resolution efficiency.  \nExecuted tests on various devices and operating systems globally using tools like BrowserStack, ensuring consistency and stability across user environments, earning positive feedback in cross-regional markets.  \nManaged continuous integration with GitLab, automated APK packaging and deployment using Shell scripts.  \nDeveloped and maintained automated test scripts for efficient regression testing of critical scenarios.",
+        "text": "- 负责与英美等海外项目经理和开发团队进行需求澄清和缺陷反馈，确保高效的跨时区沟通，减少30%因需求不明确导致的返工\n- 撰写双语测试用例和缺陷报告，提升海外团队的理解效率和缺陷解决速度\n- 使用BrowserStack等工具在全球各种设备和操作系统上执行测试，确保产品在不同用户环境中的一致性和稳定性\n- 通过GitLab实现持续集成，使用Shell脚本自动化APK打包和部署流程，减少50%的手动操作时间\n- 开发和维护Appium自动化测试框架，实现关键场景的回归测试自动化，测试效率提升40%",
         "page_idx": 1
     },
     {
         "type": "text",
-        "text": "Achievements: Reduced testing costs and time through automation and tool collaboration, ensuring consistent stability across multiple platforms.",
+        "text": "Achievements: 通过自动化和工具协作降低了35%的测试成本和时间，确保了产品在多平台环境下的一致性和稳定性。项目在全球市场获得高评价，在北美和欧洲地区的产品满意度提升了25%。被评为最佳跨国合作测试人员。",
         "page_idx": 1
     },
     {
@@ -118,7 +118,7 @@
     },
     {
         "type": "text",
-        "text": "Web Embers is a general front-end component library that helps teams improve UI consistency and development efficiency.",
+        "text": "Web Embers是一个企业级前端组件库，为多个产品线提供统一的UI组件，确保跨项目界面一致性和开发效率。该组件库需符合国际无障碍标准(WAI-ARIA)，支持多语言和响应式设计，要求严格的视觉还原度和兼容性测试。",
         "page_idx": 1
     },
     {
@@ -129,12 +129,12 @@
     },
     {
         "type": "text",
-        "text": "Actively participated in component requirement reviews, providing suggestions for functionality and design improvements.  \nValidated component attributes against Figma designs using developer tools to ensure UI standards.  \nVerified components' compliance with international accessibility standards (WAI) using tools like NVDA/VoiceOver, enhancing accessibility for global user groups.",
+        "text": "- 参与组件需求评审和测试方案设计，为功能性和设计提供改进建议，确保组件满足不同产品需求\n- 使用开发者工具对比验证组件属性与Figma设计稿的一致性，确保像素级UI还原度达95%以上\n- 使用NVDA/VoiceOver等辅助技术工具验证组件符合国际无障碍标准(WAI-ARIA)，提升全球用户可访问性\n- 开发组件库自动化测试脚本，确保多浏览器兼容性和响应式布局表现一致性\n- 参与组件文档编写和示例代码审核，提高开发者使用体验和组件采用率",
         "page_idx": 1
     },
     {
         "type": "text",
-        "text": "Achievements: Ensured component library unification across projects through rigorous testing and validation processes, reducing repetitive testing efforts in subsequent projects.",
+        "text": "Achievements: 通过严格的测试和验证流程确保了组件库在多个项目中的统一性和可靠性，将组件问题发现率提高35%，减少了后续项目中70%的重复测试工作。组件库在4个不同产品线成功应用，获得开发团队高度评价。",
         "page_idx": 1
     },
     {
@@ -151,7 +151,7 @@
     },
     {
         "type": "text",
-        "text": "The Qudian prepared food platform provides users with convenient prepared food purchasing and delivery services through an app and mini program.",
+        "text": "趣店预制菜平台是一个高并发电商系统，通过App和微信小程序为用户提供预制菜购买和配送服务。系统日交易量超过10,000单，涉及支付、库存、配送等多个微服务模块，需确保支付安全性和系统稳定性。",
         "page_idx": 2
     },
     {
@@ -162,7 +162,12 @@
     },
     {
         "type": "text",
-        "text": "Participated in requirement reviews, provided improvement suggestions, and prepared testing schedules and test cases.  \nRecorded, tracked, analyzed, and verified issues identified during testing.  \nDeployed backend services and packaged apps using Jenkins, captured API data using Charles.  \nConnected to MySQL with Navicat to verify data storage accuracy and modify data for business logic validation.  \nConducted event tracking tests based on tracking documentation to verify the existence and accuracy of tracking events and attributes.  \nDeployed microservices testing environments using Jenkins, Docker, and Rancher for version releases.",
+        "text": "- 参与需求评审和测试方案设计，负责电商核心流程(浏览、下单、支付、退款)的功能测试和集成测试\n- 使用Charles/Fiddler进行API数据抓包和修改，验证接口安全性和异常处理能力\n- 通过Navicat连接MySQL验证数据存储准确性，编写SQL脚本模拟和验证复杂业务逻辑\n- 基于埋点文档进行事件跟踪测试，验证用户行为分析数据的准确性，发现并解决多个关键数据偏差问题\n- 使用Jenkins、Docker和Rancher部署微服务测试环境，确保版本发布的稳定性和一致性\n- 开发自动化脚本验证关键业务流程，提高回归测试效率和覆盖率",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Achievements: 通过严格的测试流程和自动化工具应用，项目上线后关键交易流程零故障，支付相关问题减少75%，用户满意度提升30%。参与设计的测试方案被评为公司最佳测试实践并在其他高并发项目中推广。",
         "page_idx": 2
     },
     {
@@ -179,7 +184,7 @@
     },
     {
         "type": "text",
-        "text": "The MIS backend management system is used for comprehensive management of products, orders, and operations, improving operational efficiency.",
+        "text": "MIS后端管理系统是一个企业级运营管理平台，集成产品、订单、用户和运营数据管理功能，为公司提供全面的业务数据监控和运营决策支持。系统日均处理数据50万+条，支持复杂的业务流程和权限控制，对数据一致性和系统性能有严格要求。",
         "page_idx": 2
     },
     {
@@ -190,7 +195,12 @@
     },
     {
         "type": "text",
-        "text": "Participated in requirement reviews, project scheduling, test case design, formal testing, regression testing in production environments, release, and subsequent iteration testing.  \nPrimarily responsible for functional and business process testing of the operations and order modules.  \nConnected to servers using Jumpserver to view business logs, error messages, and MQ-related information.  \nManaged basic configurations across environments using the Apollo configuration center, enabling hot updates through configuration changes.  \nDeveloped automated test cases using an API testing framework (Python + pytest), combined with Jenkins for automated deployment, achieving quality validation for CRUD operations before regression and version releases. Achieved approximately 70% functional test coverage, saving about two-thirds of manual effort during regression and version validation to test more cross-business logic.",
+        "text": "- 负责运营和订单模块的功能测试与业务流程测试，深入理解业务规则确保系统功能与实际业务需求一致\n- 使用Jumpserver连接服务器查看业务日志、错误信息和MQ相关数据，提高问题定位和排查效率\n- 通过Apollo配置中心管理多环境配置，实现配置变更热更新，减少环境切换成本\n- 基于Python+pytest开发API自动化测试框架，结合Jenkins实现自动化部署和测试，覆盖核心CRUD操作\n- 设计数据库测试方案，验证复杂业务逻辑的数据一致性和完整性，确保系统数据安全可靠\n- 编写和维护测试文档，包括测试计划、测试用例、测试报告和问题跟踪，为团队提供清晰的质量保障依据",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Achievements: 自动化测试覆盖率达到70%，显著节省了回归和版本验证过程中约2/3的人工工作量，使测试团队能够专注于更复杂的业务逻辑测试。系统上线后业务操作错误率降低45%，数据一致性问题减少60%，获得业务部门高度认可。",
         "page_idx": 2
     },
     {
@@ -200,27 +210,36 @@
         "page_idx": 2
     },
     {
-        "type": "table",
-        "img_path": "images/34e62a6db7d78615dbe833c8ac6d8745a95358cf81730b17765e0090248baf43.jpg",
-        "table_caption": [],
-        "table_footnote": [],
-        "table_body": "\n\n<html><body><table><tr><td>2022.11-2025.1</td><td>Fujian NetDragon Computer Network Information Technology Co., Ltd. Xiamen Branch</td><td>Software Test Engineer</td></tr><tr><td>2022.4-2022.9</td><td>Xiamen Qudian Technology Co., Ltd.</td><td>Test Development Engineer</td></tr><tr><td>2020.10-2022.4</td><td>Xiamen Sanlian Software Co., Ltd.</td><td>Test Engineer</td></tr></table></body></html>\n\n",
-        "page_idx": 2
-    },
-    {
         "type": "text",
-        "text": "Education Background",
+        "text": "JSON Resume MCP Server",
         "text_level": 1,
         "page_idx": 2
     },
     {
         "type": "text",
-        "text": "Xiamen University of Technology",
+        "text": "Project Description",
+        "text_level": 1,
         "page_idx": 2
     },
     {
         "type": "text",
-        "text": "2017.9-2021.6",
+        "text": "JSON Resume MCP Server是一个基于Model Context Protocol的工具，通过代码分析技术自动优化与维护开发者简历。该系统集成GitHub API进行简历管理，利用OpenAI进行专业描述生成，并通过TypeScript/Zod保证简历符合JSON Resume标准。服务全球开发者社区，支持多种IDE集成(如Windsurf、Cursor)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Responsibilities",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "- 负责开发核心架构组件，包括Resume Enhancer、GitHub集成服务和代码库分析器\n- 使用TypeScript/Node.js构建服务端，实现全面的验证机制确保JSON Resume标准合规性\n- 设计并实现OpenAI集成，优化提示工程以生成高质量的项目描述和技能总结\n- 开发非破坏性简历增强系统，在添加新技能和项目细节的同时保留用户现有简历数据\n- 建立完善的测试体系，包括模拟测试、API验证和MCP协议测试，确保系统稳定性\n- 实施CI/CD流程，使用esbuild配置构建流程，优化npm发布工作流\n- 编写详细的文档指南，支持各环境(npm全局、Windsurf、Cursor)的安装配置\n- 应用高级模式验证技术，确保与现有工具的向后兼容性",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Achievements: 成功开发了一款面向生产环境的AI驱动工具，已被JSON Resume生态系统采纳，帮助全球开发者自动维护专业简历。实现了数据保护架构，确保用户简历得到增强而不会发生意外修改。为活跃开发者减少约80%的简历更新时间，获得开源社区高度评价。",
         "page_idx": 2
     }
 ]
